@@ -1,3 +1,4 @@
+-- THIS IS A MAINMODULE.
 -- This is the parent. All the folders in this repository is a child of this script.
 
 function Load()
